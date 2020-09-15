@@ -1,0 +1,11 @@
+.add-input{
+    flex-grow: 1;
+    margin-right: 5px;
+}
+.add{
+    margin-top: 15px;
+    display: flex;
+}
+.btn{
+    flex-grow: 1; 
+}
